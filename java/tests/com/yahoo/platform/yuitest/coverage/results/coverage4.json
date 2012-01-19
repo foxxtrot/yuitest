@@ -1,0 +1,14 @@
+{
+    "build/lib/__init__.js": {
+        "lines": {
+            "1": 1
+        },
+        "functions": {},
+        "coveredLines": 1,
+        "calledLines": 1,
+        "coveredFunctions": 0,
+        "calledFunctions": 0,
+        "path": "/home/jeff/trunks/source/web/build/lib/__init__.js",
+        "code": ["var lib = {};"]
+    }
+}	
